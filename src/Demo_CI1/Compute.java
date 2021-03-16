@@ -35,7 +35,7 @@ public class Compute {
     }
 
     /**
-     *
+
      * @throws NotFoundException (toujours)
      */
     public void computeTer() throws NotFoundException {
